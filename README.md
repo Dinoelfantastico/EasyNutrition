@@ -1,2 +1,2 @@
-# EasyNutritionPrueba
+# EasyNutrition
 RESTful API
